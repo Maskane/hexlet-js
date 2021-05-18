@@ -1,0 +1,13 @@
+{
+  "name": "hexlet-hello-world",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maskane",
+  "license": "ISC"
+}
+
